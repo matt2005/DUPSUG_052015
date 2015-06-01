@@ -13,4 +13,4 @@ The PowerPoint can be found here: https://github.com/bgelens/Presentations/blob/
 
 Youtube
 -------
-The demo for the Secure End-2-End DSC Web Pull Services is recorded and posted on youtube here: https://youtu.be/wznZcvpEvhw?t=857
+The demo for the Secure End-2-End DSC Web Pull Services is recorded and posted on youtube here: https://youtu.be/wznZcvpEvhw
